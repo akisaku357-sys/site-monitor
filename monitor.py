@@ -2,7 +2,7 @@ import requests
 import os
 
 # 配置要监控的地址
-TARGET_URL = "http://scxy26.asia:6789"
+TARGET_URL = "http://scxy26.asia:6780"
 WEBHOOK_URL = os.environ.get('PA_WEBHOOK_URL')
 
 def check_site():
