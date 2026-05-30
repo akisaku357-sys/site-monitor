@@ -32,3 +32,11 @@ monitor.log
 *.swo
 *~
 .DS_Store
+
+# Backup files
+*.tar.gz
+*.meta
+
+# Editor
+.vscode/
+.idea/
